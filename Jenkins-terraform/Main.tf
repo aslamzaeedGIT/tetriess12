@@ -59,7 +59,7 @@ resource "aws_security_group" "Jenkins-sg" {
 }
 
 resource "aws_instance" "web" {
-  ami                    = "ami-0cd59ecaf368e5ccf"
+  ami                    = "ami-0e001c9271cf7f3b9"
   instance_type          = "t2.large"
   key_name               = "tetris-v1"
   vpc_security_group_ids = [aws_security_group.Jenkins-sg.id]
