@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ###### React Tetris V1
 
 Tetris game built with React
@@ -72,3 +73,6 @@ https://archive.eksworkshop.com/intermediate/290_argocd/install/
 =======
 # tetris
 >>>>>>> 62d2ad702da28914feb4720ef004bf29782aec7c
+=======
+# tetriess12
+>>>>>>> 838085a3bac3e8b3cbffffef3cc1a8cc4cb39cf0
